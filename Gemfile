@@ -9,7 +9,7 @@ gem 'autoparse', '>= 0.3.3'
 gem 'faraday', '~> 0.8.4'
 gem 'multi_json', '>= 1.0.0'
 gem 'extlib', '>= 0.9.15'
-gem 'jwt', '>= 0.1.5'
+gem 'jwt', '>= 1.0.0'
 gem 'jruby-openssl', :platforms => :jruby
 
 group :development do
