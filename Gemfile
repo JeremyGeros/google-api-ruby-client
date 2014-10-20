@@ -2,7 +2,7 @@ source :rubygems
 
 gemspec
 
-gem 'signet', '~> 0.4.5'
+gem 'signet', github: 'JeremyGeros/signet', branch: "0.4.5"
 gem 'addressable', '>= 2.3.2'
 gem 'uuidtools', '>= 2.1.0'
 gem 'autoparse', '>= 0.3.3'
